@@ -1,0 +1,105 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "telegram_bot_8teg": {
+        "password": "lgtkyzwVsB84",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "89bb35aa",
+                "link": "89bb35aa",
+                "login_url": "/89bb35aa/login",
+                "dashboard_url": "/89bb35aa/home",
+                "full_link": "http://localhost:5000/89bb35aa/home",
+                "type": "python",
+                "ram": "128MB",
+                "disk": "2GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-03 16:44:34.475513",
+                "expiry": "2026-08-02 16:44:34.423937",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "Shihab": {
+        "password": "shihab",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "83ea5da8",
+                "link": "83ea5da8",
+                "login_url": "/83ea5da8/login",
+                "dashboard_url": "/83ea5da8/home",
+                "full_link": "http://localhost:5000/83ea5da8/home",
+                "type": "python",
+                "ram": "512MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-03 16:55:10.961374",
+                "expiry": "2026-08-02 16:55:10.921098",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 80,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "shihab": {
+        "password": "shihab123",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "ce1fc545",
+                "link": "ce1fc545",
+                "login_url": "/ce1fc545/login",
+                "dashboard_url": "/ce1fc545/home",
+                "full_link": "http://localhost:5000/ce1fc545/home",
+                "type": "python",
+                "ram": "4GB",
+                "disk": "10GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-28 18:14:30.186021",
+                "expiry": "2026-08-27 18:14:30.076463",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 79,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "SHIHAB_CODEX23116": {
+        "password": "sAngciRNQt",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "d1b3d157",
+                "login_url": "/d1b3d157/login",
+                "dashboard_url": "/d1b3d157/home",
+                "full_link": "http://localhost:5000/d1b3d157/login",
+                "type": "python",
+                "ram": "1GB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-07-28 18:24:34.379618",
+                "expiry": "2026-07-31 18:24:34.330301",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 30,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
